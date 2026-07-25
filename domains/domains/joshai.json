@@ -1,1 +1,8 @@
-
+{
+  "owner": {
+    "username": "mitchellclare71-ops"
+  },
+  "record": {
+    "CNAME": "dummy.is-a.dev"
+  }
+}
